@@ -1,0 +1,4 @@
+host=localhost
+dbName=javausersapp
+user=dba
+password=haslo
